@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/malakhite/cicd-experiments#readme",
   "devDependencies": {
-    "jasmine": "^3.4.0"
+    "jest": "^24.8.0"
   },
   "dependencies": {}
 }
