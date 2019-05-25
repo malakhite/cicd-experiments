@@ -17,7 +17,8 @@
   },
   "homepage": "https://github.com/malakhite/cicd-experiments#readme",
   "devDependencies": {
-    "jest": "^24.8.0"
+    "jest": "^24.8.0",
+    "jest-junit": "^6.4.0"
   },
   "dependencies": {}
 }
